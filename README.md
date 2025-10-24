@@ -22,12 +22,6 @@ Automation and observability improvements
 Data pipelines using Kafka + Spark
 Performance tuning and cleaner deployments
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobertsLasis1&show_icons=true&hide_border=true&hide=issues,prs&theme=transparent" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertsLasis&theme=transparent&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertsLasis&theme=transparent" /> </p>
-
-⚙️ Activity Overview
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertsLasis1&theme=github-light&hide_border=true&area=true" /> </p>
-
 💭 A Few Things About Me
 
 I like tidy codebases and practical design decisions
