@@ -1,17 +1,19 @@
 # 👋 Hey, I'm Roberts Lasis
 
 I'm a software developer who enjoys solving problems and keeping things simple where possible.  
-Most of my work revolves around **.NET**, **C#**, and **TypeScript**, but I’ve touched plenty of other tools over the years — whatever helps get things done right.
+Most of my work revolves around **.NET**, **C#**, **TypeScript**, **SQL** and **Spark**, but I’ve touched plenty of other tools over the years - whatever helps get things done right.
 
 I like systems that are easy to reason about and that don’t fall apart under pressure.  
 Clean code, clear structure, and a bit of curiosity go a long way.
 
 ### 🧩 Tech Stack
 
-C# · ASP.NET Core · TypeScript · React  
-SQL · SSMS · Docker · Azure · OpenShift  
-Kafka · Spark · HDFS · Hive · Airflow · Splunk  
-SonarQube · GitHub Actions · CI/CD
+Languages: C#, TypeScript, JavaScript, SQL  
+Frameworks: ASP.NET Core, React  
+Cloud / DevOps: Azure, Docker, OpenShift  
+Data / Analytics: Kafka, Spark, HDFS, Hive, Airflow, Splunk  
+Databases: SQL Server (SSMS), Azure SQL  
+Quality / Tools: SonarQube, GitHub Actions, CI/CD Pipelines
 
 🔧 Currently Working With
 
@@ -33,5 +35,3 @@ I like tidy codebases and practical design decisions
 I care about naming things well and writing code people actually understand
 
 Outside of work, I enjoy basketball and other ports activities
-
-<p align="center"> <sub>“Quality means doing it right when no one is looking.” — Henry Ford</sub> </p>
