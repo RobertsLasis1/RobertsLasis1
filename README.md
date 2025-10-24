@@ -25,7 +25,5 @@ Performance tuning and cleaner deployments
 💭 A Few Things About Me
 
 I like tidy codebases and practical design decisions
-
 I care about naming things well and writing code people actually understand
-
 Outside of work, I enjoy basketball and other ports activities
