@@ -12,7 +12,7 @@ Languages: C#, TypeScript, JavaScript, SQL
 Frameworks: ASP.NET Core, React  
 Cloud / DevOps: Azure, Docker, OpenShift  
 Data / Analytics: Kafka, Spark, HDFS, Hive, Airflow, Splunk  
-Databases: SQL Server (SSMS), Azure SQL  
+Databases: SQL Server (SSMS), T-SQL  
 Quality / Tools: SonarQube, GitHub Actions, CI/CD Pipelines
 
 🔧 Currently Working With
